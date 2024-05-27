@@ -9,19 +9,19 @@
 .mago {
     margin: 0;
     padding: 0;
-    background-image: url(img/Wallpaper.jpg);
+    background-image: url(img/Moradias/EldrinSant.jpg);
 }
 
 .bruxa {
     margin: 0;
     padding: 0;
-    background-image: url(img/Wallpaper.jpg);
+    background-image: url(img/Moradias/Forest.jpg);
 }
 
 .rei-demonio {
     margin: 0;
     padding: 0;
-    background-image: url(img/Moradias/Hell.jpg);
+    background-image: url(img/Moradias/Hell1.jpg);
 }
 
 .goblins {
@@ -33,13 +33,19 @@
 .cavaleiro {
     margin: 0;
     padding: 0;
-    background-image: url(img/Wallpaper.jpg);
+    background-image: url(img/Moradias/GerathKingdom.jpg);
 }
 
 .arqueiro {
     margin: 0;
     padding: 0;
     background-image: url(img/Wallpaper.jpg);
+}
+
+.dragao{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/Moradias/DragonCave.jpg);
 }
 
 /* Pergmaninho para escrever */
@@ -73,7 +79,6 @@
     font-size: 24px;
     text-align: center;
     word-wrap: break-word; /* Quebra o texto para ajustar à largura da imagem */
-}
 
 .pergaminho{
     position: absolute;
